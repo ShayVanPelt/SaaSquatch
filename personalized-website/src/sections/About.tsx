@@ -6,7 +6,7 @@ export const Welcome = () => {
       <div className="container">
         <div className="max-w-lg mx-auto text-center">
           <h1 className="font-serif text-3xl md:text-4xl lg:text-5xl text-center mt-2 tracking-wide">
-            Welcome, impact.com Team!
+            Welcome, impact.com/SaaSquatch Team!
           </h1>
           <p className="mt-4 text-center md:text-lg lg:text-xl text-white/80">
             I'm Shay Van Pelt, and I'm thrilled to apply for the Frontend

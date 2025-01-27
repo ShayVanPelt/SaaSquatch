@@ -9,15 +9,14 @@ export const Why = () => {
             Why Impact?
           </h1>
           <p className="mt-4 text-center md:text-lg lg:text-xl text-white/80">
-            impact.com’s commitment to transforming customer and brand
-            relationships through cutting-edge technology is inspiring. The
-            SaaSquatch referral and loyalty platform exemplifies a focus on
-            creating meaningful, scalable customer engagement—something I truly
-            value. The combination of innovation and a team culture centered
-            around respect, acceptance, and healthy debate resonates deeply with
-            me. The opportunity to work alongside a talented, driven team while
-            contributing to the leading SaaS platform for partnership management
-            feels like the perfect fit for my aspirations.
+            I thrive in collaborative environments and, above all, enjoy
+            learning from smart and talented people. The opportunity to work
+            where my opinions are valued and where I can contribute meaningfully
+            is something I deeply desire for my next co-op. In my current co-op,
+            I work daily with TypeScript and Next.js, and I thoroughly enjoy it.
+            The prospect of deepening my expertise with React and other
+            front-end systems excites me, and I believe this role offers an
+            ideal opportunity to grow in this area.
           </p>
         </div>
       </div>
