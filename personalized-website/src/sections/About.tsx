@@ -9,7 +9,7 @@ export const Welcome = () => {
             Welcome, impact.com/SaaSquatch Team!
           </h1>
           <p className="mt-4 text-center md:text-lg lg:text-xl text-white/80">
-            I'm Shay Van Pelt, and I'm thrilled to apply for the Frontend
+            I'm Shaylen Van Pelt, and I'm thrilled to apply for the Frontend
             Software Engineer Co-op role for Summer 2025.
           </p>
         </div>

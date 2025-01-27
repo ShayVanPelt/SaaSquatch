@@ -18,7 +18,7 @@ export const ThankYou = () => {
             Warm regards,
           </p>
           <p className="mt-4 text-center md:text-lg lg:text-xl text-white/80">
-            Shay Van Pelt
+            Shaylen Van Pelt.
           </p>
         </div>
       </div>
