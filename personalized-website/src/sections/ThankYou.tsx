@@ -12,7 +12,13 @@ export const ThankYou = () => {
             Thank you for considering my application. Please let me know if
             there’s anything else I can provide, such as references. I look
             forward to discussing how I can support your goals while continuing
-            to learn from the best in the industry. Warm regards, Shay Van Pelt
+            to learn from the best in the industry.
+          </p>
+          <p className="mt-4 text-center md:text-lg lg:text-xl text-white/80">
+            Warm regards,
+          </p>
+          <p className="mt-4 text-center md:text-lg lg:text-xl text-white/80">
+            Shay Van Pelt
           </p>
         </div>
       </div>

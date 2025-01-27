@@ -26,7 +26,7 @@ export const Header = () => {
           href="#thankyou"
           className="nav-item hover:text-lime-400 hover:scale-105"
         >
-          Thank you :)
+          Thank you!
         </Link>
         <Link
           href="#contact"
